@@ -18,7 +18,7 @@
 
 You can download this resourcepack on [CurseForge](https://www.curseforge.com/minecraft/texture-packs/applied-backport) or [Modrinth](https://modrinth.com/resourcepack/ae2-backport)
 
-## License and Cedits
+## License and Credits
 
 Applied Energistics 2 Textures and Models
   - (c) 2020, [Ridanisaurus Rid](https://github.com/Ridanisaurus/), (c) 2013 - 2020 AlgorithmX2 et al
