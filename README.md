@@ -3,6 +3,7 @@
 ## Index
 
 * [About](#about)
+* [How to switch versions](#how-to-switch-versions)
 * [Downloads](#downloads)
 * [License and Credits](#license-and-credits)
 
@@ -13,6 +14,10 @@
 **This resourcepack brings new textures of Applied Energistics 2 to the older versions**
 
 ![Blocks](https://cdn.modrinth.com/data/cached_images/f87d47bdd5e738e733cabdfb211e6a7fb14ded7a.png)
+
+## How to switch versions
+To view the pack files and to switch between resource pack versions, click the branch button (`main`) and select the version you want to see!
+![image](https://github.com/user-attachments/assets/36651b83-6348-4a73-9f0b-648e3a83cca4)
 
 ## Downloads
 
