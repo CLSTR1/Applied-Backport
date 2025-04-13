@@ -4,6 +4,7 @@
 
 * [About](#about)
 * [Downloads](#downloads)
+* [License and Cedits](#license-and-credits)
 
 ## About
 
