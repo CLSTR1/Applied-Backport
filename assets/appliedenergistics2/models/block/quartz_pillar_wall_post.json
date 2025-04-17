@@ -1,0 +1,7 @@
+{
+  "parent": "appliedenergistics2:block/wall/template_wall_post",
+  "textures": {
+    "wall": "appliedenergistics2:block/quartz_pillar_side",
+	"top": "appliedenergistics2:block/cut_quartz_top"
+  }
+}

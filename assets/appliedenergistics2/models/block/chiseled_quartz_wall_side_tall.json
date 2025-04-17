@@ -1,0 +1,7 @@
+{
+  "parent": "appliedenergistics2:block/wall/template_wall_side_tall",
+  "textures": {
+    "wall": "appliedenergistics2:block/chiseled_quartz_block_side",
+	"top": "appliedenergistics2:block/smooth_quartz_block"
+  }
+}
